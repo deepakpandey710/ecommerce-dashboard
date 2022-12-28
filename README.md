@@ -3,12 +3,24 @@
 This is an ecommerce dashboard app..
 It has the following Admin Features. It uses the MERN stack as its foundation (MongoDB, Express, React, Node js).
 
-JWT for Authentication
-Adding, Deleting and Editing everything
-Real-time updates
-Customer Details
-Ordered Product Detail
-Add Unlimited Products
+
+
+
+JWT for Authentication,
+
+Adding, Deleting and Editing everything,
+
+Real-time updates,
+
+Customer Details,
+
+Ordered Product Detail,
+
+Add Unlimited Products,
+
+
+
+
 
 Hera are some snapshots of the project:-
 
